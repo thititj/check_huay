@@ -1,4 +1,4 @@
 fastapi
-pydantic
 uvicorn
-typing-extensions
+pydantic
+gunicorn
